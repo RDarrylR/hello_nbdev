@@ -1,5 +1,5 @@
-# Project name here
-> Summary description here.
+# Hello NBDev
+> A summary
 
 
 This file will become your README and also the index of your documentation.
@@ -12,13 +12,13 @@ This file will become your README and also the index of your documentation.
 
 Fill me in please! Don't forget code examples:
 
+```python
+say_hello('abc')
 ```
-1+1
-```
 
 
 
 
-    2
+    'Hello abc!'
 
 
