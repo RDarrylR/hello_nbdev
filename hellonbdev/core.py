@@ -16,3 +16,4 @@ class HelloSayer:
     def yo2(self): return say_hello('Yo')
     def yo3(self): return say_hello('Yo')
     def yo4(self): return say_hello('Yo')
+    def yo5(self): return say_hello('Yo')
