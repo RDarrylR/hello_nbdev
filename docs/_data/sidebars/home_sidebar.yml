@@ -16,6 +16,6 @@ entries:
       title: other
       url: other.html
     output: web
-    title: hellonbdev
+    title: hello_nbdev
   output: web
   title: Sidebar
