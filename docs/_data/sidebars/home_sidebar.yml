@@ -4,6 +4,18 @@
 #################################################
 # Instead edit ../../sidebar.json
 entries:
-- folders: []
+- folders:
+  - folderitems:
+    - output: web,pdf
+      title: Overview
+      url: /
+    - output: web,pdf
+      title: core
+      url: core.html
+    - output: web,pdf
+      title: other
+      url: other.html
+    output: web
+    title: hellonbdev
   output: web
   title: Sidebar

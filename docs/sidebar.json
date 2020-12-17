@@ -1,2 +1,7 @@
 {
+  "hellonbdev": {
+    "Overview": "/",
+    "core": "core.html",
+    "other": "other.html"
+  }
 }
