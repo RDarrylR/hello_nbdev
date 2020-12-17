@@ -13,3 +13,6 @@ class HelloSayer:
     def __init__(self, to): self.to = to
     def say(self): return say_hello(self.to)
     def yo(self): return say_hello('Yo')
+    def yo2(self): return say_hello('Yo')
+    def yo3(self): return say_hello('Yo')
+    def yo4(self): return say_hello('Yo')
